@@ -1,0 +1,7 @@
+SQLAlchemy==0.8.4
+SQLAlchemy-Utils==0.24.1
+Twisted
+six==1.5.2
+txrestapi==0.1
+psycopg2
+pyutils
