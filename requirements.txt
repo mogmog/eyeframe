@@ -4,4 +4,3 @@ Twisted
 six==1.5.2
 txrestapi==0.1
 psycopg2
-pyutils
